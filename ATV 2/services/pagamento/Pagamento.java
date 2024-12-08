@@ -1,6 +1,6 @@
 package services.pagamento;
 
-//import CarrinhoDeCompras;
+import entidades.CarrinhoDeCompras;
 
 public class Pagamento implements InterfacePagamento{
 
